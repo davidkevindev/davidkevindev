@@ -1,7 +1,7 @@
 ## Olá, meu nome é David
 
 #### Desenvolvedor Back-end Java | Spring Boot | APIs REST | SQL
-#### Cursando Analise e Desenvolvimento de Sistemas na Anhembi Morumbi
+#### Cursando Analise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi
 #### Formação prevista para dezembro de 2026
 
 ## Principais habilidades:
