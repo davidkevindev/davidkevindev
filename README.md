@@ -1,13 +1,14 @@
-## Olá, meu nome é David
+## Olá, eu sou David Kevin
 
-#### Desenvolvedor Back-end Java | Spring Boot | APIs REST | SQL
-#### Cursando Analise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi
-#### Formação prevista para dezembro de 2026
+#### Desenvolvedor Back-end focado em criar soluções escaláveis, automações e APIs REST utilizando Java e Spring Boot.
+#### 🎓 Cursando Analise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi
+#### 📅 Formação prevista: dezembro / 2026
 
-## Principais habilidades:
-- #####  Java
-- #####  Spring Boot
-- #####  Git e Github
-- #####  Desenvolvimento com Inteligência Artificial
-- #####  Metodologias ágeis (Scrum e Kanban)
-- #####  Obsidian (Organização, documentação, fluxos e roadmaps)
+## 💻 Tecnologias:
+- ##### Java
+- ##### Spring Boot
+- ##### SQL
+- ##### Git e Github
+- ##### Desenvolvimento com Inteligência Artificial
+- ##### Metodologias ágeis (Scrum e Kanban)
+- ##### Obsidian (Organização, documentação, fluxos e roadmaps)
